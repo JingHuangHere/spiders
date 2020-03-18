@@ -1,4 +1,4 @@
 # Some Samples to practice spiders
 
-## book 
++ book 
    acquire the text of a book 
